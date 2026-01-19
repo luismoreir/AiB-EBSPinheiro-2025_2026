@@ -2,7 +2,7 @@
 from math import pi, pow
 #Perímetro
 def perimetro_circulo(raio):
-    perimetro = 2 * 3.14 * raio
+    perimetro = 2 * pi * raio
     return perimetro
 
 #Área
