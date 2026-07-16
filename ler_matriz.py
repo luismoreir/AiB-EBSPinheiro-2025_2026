@@ -18,4 +18,4 @@ def le_matriz():
     col = int(input( "Digite o número de colunas da matriz: "))
     return cria_matriz(lin , col)
 # Programa principal
-matriz = le_matriz()    
+matriz = le_matriz()
